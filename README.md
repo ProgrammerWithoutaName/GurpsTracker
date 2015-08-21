@@ -1,2 +1,2 @@
 # Gurps Tracker
-Tool to help build and track Gurps Characters and Campaigns
+Tool to help build and track GURPS characters and campaigns
